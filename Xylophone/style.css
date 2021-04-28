@@ -1,0 +1,53 @@
+.container{
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+
+}
+
+.grid-container{
+	display: grid;
+	text-align: center;
+}
+
+.grid-item{
+	font-size: xx-large;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1%;
+}
+
+#cNote{
+	background-color: red;
+	width: 90%;
+}
+
+#dNote{
+	background-color: blue;
+	width: 80%;
+}
+
+#eNote{
+	background-color: yellow;
+	width: 70%;
+}
+
+#fNote{
+	background-color: green;
+	width: 60%;
+}
+
+#gNote{
+	background-color: aqua;
+	width: 50%;
+}
+
+#aNote{
+	background-color: orange;
+	width: 40%;
+}
+
+#bNote{
+	background-color: purple;
+	width: 30%;
+}
